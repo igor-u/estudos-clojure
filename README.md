@@ -1,6 +1,6 @@
 # estudos-clojure
 
-A Clojure library designed to ... well, that part is up to you.
+A library designed to practice the initial concepts of Clojure and functional programming, based on books and online learning platforms.
 
 ## Usage
 
