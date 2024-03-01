@@ -1,4 +1,4 @@
-(ns estudos-clojure.ch2-setsAndAtoms)
+(ns estudos-clojure.setsAndAtoms)
 
 ;Creates a set
 #{}
